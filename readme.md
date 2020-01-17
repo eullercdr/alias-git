@@ -1,8 +1,8 @@
-## Praticidade e Agilidade ao utilizar alis no GIT
+## Praticidade e Agilidade ao utilizar alias no GIT
 
 Este artigo irá demonstrar como você pode otimizar seus comandos GIT, sem precisar ficar decorando e digitando codigos enormes. Caso você tenha alguma sugestão de algum alias que não esteja neste arquivo, nos envie um PR.
 
-## Instruções para configuração de alis no GIT
+## Instruções para configuração de alias no GIT
 Edite seu arquivo .gitconfig que está dentro da pasta do seu usuário, senão tiver crie-o.
 
 **Após adicione os seguintes comandos ao final do arquivo**
